@@ -1,4 +1,6 @@
-# nbdev template
+![CI](https://github.com/NicolasMakaroff/dnn_PES/workflows/CI/badge.svg?branch=master)
 
-Use this template to more easily create your nbdev project.
+# PESmetamodel
+
+
 

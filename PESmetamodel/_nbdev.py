@@ -2,9 +2,13 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"open_data": "00_dataset.ipynb",
+         "create_train_test_set": "00_dataset.ipynb",
+         "get_statistics": "00_dataset.ipynb",
+         "norm": "00_dataset.ipynb",
+         "minmaxscaler": "00_dataset.ipynb"}
 
-modules = []
+modules = ["dataset.py"]
 
 doc_url = "https://Nicolas Makaroff.github.io/PESmetamodel/"
 

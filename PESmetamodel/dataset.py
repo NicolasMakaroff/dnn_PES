@@ -3,6 +3,9 @@
 __all__ = ['open_data', 'create_train_test_set', 'get_statistics', 'norm', 'minmaxscaler']
 
 # Cell
+import pandas as pd
+
+# Cell
 def open_data(file,
               info = False):
     """ Open the data and transform it in a DataFrame

@@ -6,9 +6,18 @@ index = {"open_data": "00_dataset.ipynb",
          "create_train_test_set": "00_dataset.ipynb",
          "get_statistics": "00_dataset.ipynb",
          "norm": "00_dataset.ipynb",
-         "minmaxscaler": "00_dataset.ipynb"}
+         "minmaxscaler": "00_dataset.ipynb",
+         "small_dnn": "01_network.ipynb",
+         "intermediate1_dnn": "01_network.ipynb",
+         "intermediate2_dnn": "01_network.ipynb",
+         "big_dnn": "01_network.ipynb",
+         "huge_dnn": "01_network.ipynb",
+         "plot_learning": "01_network.ipynb",
+         "plot_history": "01_network.ipynb",
+         "compare_dnn": "01_network.ipynb"}
 
-modules = ["dataset.py"]
+modules = ["dataset.py",
+           "network.py"]
 
 doc_url = "https://Nicolas Makaroff.github.io/PESmetamodel/"
 

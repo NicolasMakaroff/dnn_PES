@@ -11,7 +11,11 @@ jobs:
         architecture: 'x64'
     - name: Install the library
       run: |
+<<<<<<< HEAD
         pip install nbdev jupyter pandas tensorflow matplotlib
+=======
+        pip install nbdev jupyter pandas tensorflow
+>>>>>>> master
         pip install -e .
     - name: Read all notebooks
       run: |
